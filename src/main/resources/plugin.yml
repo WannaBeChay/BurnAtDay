@@ -1,0 +1,6 @@
+name: BurnAtDay
+version: 1.0
+main: me.chaylannprophet.burnatday.BurnAtDay
+api-version: 1.19
+author: Chaylann
+description: Plugin that burns players in direct sunlight.
